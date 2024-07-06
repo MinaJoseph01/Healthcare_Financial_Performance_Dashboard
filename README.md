@@ -2,6 +2,8 @@
 # Healthcare Financial Performance Dashboard
 
 This project analyzes the financial performance of a healthcare center, focusing on key performance indicators (KPIs) and significant trends in the dataset. The dashboard provides a comprehensive overview of the financial health and performance of healthcare providers.
+![Home](https://github.com/MinaJoseph01/Healthcare_Financial_Performance_Dashboard/assets/142174893/a095b7bf-b019-4a43-a1b3-cd64c86cbf9f)
+![TRENDS](https://github.com/MinaJoseph01/Healthcare_Financial_Performance_Dashboard/assets/142174893/40a360c4-8a17-48c3-b0c9-500c2e0923bd)
 
 ## Project Overview
 
